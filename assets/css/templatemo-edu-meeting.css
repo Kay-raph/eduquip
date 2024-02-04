@@ -122,12 +122,12 @@ body {
 }
 
 ::selection {
-  background: #fca130;
+  background: #53cdfc;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #fca130;
+  background: #53cdfc;
   color: #fff;
 }
 
@@ -150,7 +150,7 @@ body {
 .main-button-red a {
   font-size: 13px;
   color: #fff;
-  background-color: #a12c2f;
+  background-color: #ed666a;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -166,7 +166,7 @@ body {
 .main-button-yellow a {
   font-size: 13px;
   color: #fff;
-  background-color: #fca130;
+  background-color: #53cdfc;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -199,7 +199,7 @@ header
 */
 
 .sub-header {
-  background-color: #a12c2f;
+  background-color: #ed666a;
   position: relative;
   z-index: 1111;
 }
@@ -227,12 +227,12 @@ header
 }
 
 .sub-header .right-icons ul li a:hover {
-  color: #fca130;
+  color: #53cdfc;
 }
 
 .sub-header .left-content p em {
    font-style: normal;
-   color: #fca130;
+   color: #53cdfc;
 }
 
 .background-header {
@@ -246,12 +246,12 @@ header
 }
 
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #53cdfc!important;
 }
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #53cdfc!important;
 }
 
 .background-header .main-nav .nav li:hover a {
@@ -329,7 +329,7 @@ header
   font-weight: 500;
   font-size: 14px;
   text-transform: uppercase;
-  color: #fca130;
+  color: #53cdfc;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -342,12 +342,12 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #a12c2f!important;
+  color: #ed666a!important;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fca130!important;
+  color: #4a1e68!important;
   opacity: 1;
 }
 
@@ -367,7 +367,7 @@ header
 }
 
 .background-header .main-nav .nav li.has-sub:after {
-  color: #fca130;
+  color: #ed666a;
 }
 
 .header-area .main-nav .nav li.has-sub ul.sub-menu {
@@ -409,7 +409,7 @@ header
 
 .header-area .main-nav .nav li.has-sub ul li a:hover {
   background: #fff;
-  color: #a12c2f!important;
+  color: #ed666a!important;
   padding-left: 25px;
 }
 
@@ -549,7 +549,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #fca130;
+  color: #53cdfc;
 }
 
 @media (max-width: 1200px) {
@@ -568,7 +568,7 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #fca130!important;
+    color: #53cdfc!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -626,7 +626,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #fca130!important;
+    color: #53cdfc!important;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     position: relative;
@@ -731,7 +731,7 @@ banner
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #fca130;
+  color: #53cdfc;
   font-weight: 900;
 }
 
@@ -771,7 +771,7 @@ services
 }
 
 .services .item {
-  background-image: url(../images/service-item-bg.jpg);
+  background-image: url(../images/service-item-bg-3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -922,7 +922,7 @@ section.upcoming-meetings .categories ul li a {
 }
 
 section.upcoming-meetings .categories ul li a:hover {
-  color: #a12c2f;
+  color: #ed666a;
 }
 
 section.upcoming-meetings .categories .main-button-red {
@@ -982,7 +982,7 @@ section.upcoming-meetings .categories .main-button-red a {
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #a12c2f;
+  color: #ed666a;
 }
 
 .meeting-item .down-content .date span {
@@ -1074,7 +1074,7 @@ section.apply-now .item p {
   transition: transform 200ms ease-in-out;
 }
 .accordion-head.is-open {
-  color: #fca130;
+  color: #53cdfc;
   border-bottom: none;
 }
 .accordion-head.is-open .icon {
@@ -1130,12 +1130,12 @@ section.our-courses {
 }
 
 .our-courses .item .down-content .info ul li i {
-  color: #fca130;
+  color: #53cdfc;
   font-size: 14px;
 }
 
 .our-courses .item .down-content .info span {
-  color: #a12c2f;
+  color: #ed666a;
   font-size: 15px;
   font-weight: 600;
   text-align: right;
@@ -1279,7 +1279,7 @@ section.our-facts h2 {
 
 .count-digit {
     margin: 5px 0px;
-    color: #fca130;
+    color: #53cdfc;
     font-weight: 700;
     font-size: 36px;
 }
@@ -1375,7 +1375,7 @@ section.contact-us #contact textarea {
 section.contact-us #contact button {
   font-size: 13px;
   color: #fff;
-  background-color: #a12c2f;
+  background-color: #ed666a;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -1391,7 +1391,7 @@ section.contact-us #contact button:hover {
 }
 
 section.contact-us .right-info {
-  background-color: #a12c2f;
+  background-color: #ed666a;
   border-radius: 20px;
   padding: 40px;
 }
@@ -1436,7 +1436,7 @@ section.contact-us .right-info ul li span {
 }
 
 .footer p a {
-  color: #fca130;
+  color: #53cdfc;
 }
 
 
@@ -1499,7 +1499,7 @@ section.meetings-page .filters {
 
 section.meetings-page .filters li {
   font-size: 13px;
-  color: #a12c2f;
+  color: #ed666a;
   background-color: #fff;
   padding: 11px 30px;
   display: inline-block;
@@ -1513,7 +1513,7 @@ section.meetings-page .filters li {
 
 section.meetings-page .filters ul li.active,
 section.meetings-page .filters ul li:hover {
-  background-color: #a12c2f;
+  background-color: #ed666a;
   color: #fff;
 }
 
@@ -1554,7 +1554,7 @@ section.meetings-page .main-button-red a {
 
 section.meetings-page .pagination ul li.active a,
 section.meetings-page .pagination ul li a:hover {
-  background-color: #a12c2f;
+  background-color: #ed666a;
   color: #fff;
 }
 
@@ -1605,7 +1605,7 @@ section.meetings-page .pagination ul li a:hover {
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #a12c2f;
+  color: #ed666a;
 }
 
 .meeting-single-item .thumb .date span {
@@ -1668,7 +1668,7 @@ section.meetings-page .pagination ul li a:hover {
 }
 
 .meeting-single-item .down-content .share ul li a:hover {
-  color: #fca130;
+  color: #53cdfc;
 }
 
 /* Meeting item column */
